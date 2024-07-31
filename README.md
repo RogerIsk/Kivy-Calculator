@@ -2,7 +2,7 @@
 
 ### A calculator made with a python and a kivy file which later get combined to create 1 single python calculator file that works with kivy
 
-### The calculator is fully operational and it works with insanely big numbers:
+The calculator is fully operational and it works with insanely big numbers:
  example: 99999999999999999999999999999999999999999999999999999999999999999999999999999999 + 123
        = 10000000000000000000000000000000000000000000000000000000000000000000000000000122
 
